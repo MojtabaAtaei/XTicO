@@ -18,4 +18,4 @@ All notable changes to **XTicO** are documented in this file.
 - Custom InvalidMoveError exception
 
 ### Notes
-- RequiPython 3.12+2+** (uses PEP 701 f-string syntax)
+- Requires Python 3.12+ (uses PEP 701 f-string syntax).
