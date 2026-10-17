@@ -13,7 +13,7 @@ timed moves, colorful output, and score tracking across rounds.
 
 ## 📸 Gameplay
 
-![XTicO Gameplay]([screenshots/gameplay.png](https://github.com/MojtabaAtaei/XTicO/blob/main/Screenshot/gameplay.png)
+![XTicO Gameplay](https://github.com/MojtabaAtaei/XTicO/blob/main/Screenshot/gameplay.png)
 
 ## ✨ Features
 
