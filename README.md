@@ -46,4 +46,4 @@ python main.py
 
 ## 📜 License
 
-MIT — see [LICENSE](LICENSE).
+MIT — see [LICENSE](https://github.com/MojtabaAtaei/XTicO/blob/main/LICENSE).
